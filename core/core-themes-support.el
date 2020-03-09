@@ -158,6 +158,8 @@
     (doom-tron                        . doom-themes)
     (doom-vibrant                     . doom-themes)
     (doom-x                           . doom-themes)
+    (one-dark                         . one-themes)
+    (one-light                        . one-themes)
     (solarized-light                  . solarized-theme)
     (solarized-dark                   . solarized-theme)
     (spacemacs-light                  . spacemacs-theme)
