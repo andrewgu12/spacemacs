@@ -209,6 +209,7 @@
     (doom-tomorrow-night              . doom-themes)
     (doom-vibrant                     . doom-themes)
     (doom-wilmersdorf                 . doom-themes)
+    (one-dark . one-themes)
     (solarized-light                  . solarized-theme)
     (solarized-light-high-contrast    . solarized-theme)
     (solarized-dark                   . solarized-theme)
